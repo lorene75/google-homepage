@@ -1,0 +1,53 @@
+/* BASIC STYLES */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+/* GOOGLE AREA */
+.google #google_logo {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  clear: both;
+  padding-top: 112px;
+  padding-bottom: 20px;
+}
+
+.form {
+  text-align: center;
+}
+
+#form-search { 
+  width: 500px;
+  line-height: 50px;
+  padding: 20px 10px;
+}
+
+.form #form-search {
+  padding: 0 8px;
+}
+
+/*#form-search:hover {
+  border-color: #e4e4e4;
+  padding-top: 0;
+}*/
+
+.buttons {
+  text-align: center;
+  padding-top: 30px;
+  margin-bottom: 300px;
+}
+
+ footer {
+position:absolute;
+background-color: lightgrey;
+width:100%;
+bottom: 0px;
+}
+
