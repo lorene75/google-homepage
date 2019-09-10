@@ -1,0 +1,37 @@
+<head>
+    <title>Google Homepage</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  </head>
+  <br><br><br><br><br><br><br><br>
+  <body> 
+    
+    <!-- GOOGLE IMG -->  
+    <div class="google" align="center">
+      <a href="#" id="google_logo"><img src="logogoogle.png"/></a>
+    </div>
+    
+    <!-- FORM SEARCH -->  
+    <div class="form" align="center">  
+      <form>
+        <label for="form-search"></label>
+        <input type="text" id="form-search" placeholder="Effectuez une recherche sur Google ou saisissez une URL">
+      </form>
+    </div>  
+    
+    <!-- BUTTONS -->
+    <div class= "buttons" align="center">  
+      <input type="submit" value="Recherche Google" id="recherche_google">
+      <input type="submit" value="J'ai de la chance" id="jai_de_la_chance">
+    </div>  
+      
+    <!-- FOOTER -->
+    <footer>
+      <br><br><br><br><br><br><br><br><br>
+      <div> 
+        <p> France</p>
+      </div>
+        <div class="footer" align="center">
+          <p> Publicité - Entreprise - A propos - Comment fonctionne la recherche Google ? - Info consommateurs - Conditions - Paramètres</p>
+        </div>       
+    </footer>      
+  </body>
